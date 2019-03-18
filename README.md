@@ -20,7 +20,7 @@ Read the [contributing guidelines](./CONTRIBUTING.md)
 ## Pipes
 
 
-## Note - replace angular-pipes by gix-angular-pipes
+
 
 You can find the documentations in the [`docs`](./docs) folder or on [`GitBook`](https://fknop.gitbooks.io/angular-pipes/).
 
@@ -124,6 +124,7 @@ You can find the documentations in the [`docs`](./docs) folder or on [`GitBook`]
 * [`wrap`](./docs/string.md#wrap)
 * [`with`](./docs/string.md#with)
 * [`reverseStr`](./docs/string.md#reversestr)
+* [`dt2age`](./docs/string.md#dt2age)
 
 ### Object
 
